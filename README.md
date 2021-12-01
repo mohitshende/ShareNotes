@@ -1,7 +1,6 @@
 # ShareNotes
 
-<br>
-ShareNotes is a web platform to share notes among students and teachers. Students and teachers can upload notes but until and unless they are approved by Admin they are not available to others. Visit the live version [here](https://share-notes.000webhostapp.com/).
+ShareNotes is a web platform to share notes among students and teachers. Students and teachers can upload notes but until and unless they are approved by Admin they are not available to others. Visit the live version [here](https://share-notes.000webhostapp.com).
 
 # Screenshots
 
